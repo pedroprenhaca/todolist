@@ -14,4 +14,5 @@ public class Task {
     private Long id;
     @Column(nullable = false)
     private String task;
+    private boolean isChecked;
 }
