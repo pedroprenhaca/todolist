@@ -1,0 +1,17 @@
+.headerMain{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    margin:auto 595px;
+    margin-top:60px;
+}
+
+.tasksCreate{
+    display: flex;
+    gap: 8px;
+}
+
+.tasksComplete{
+    display: flex;
+    gap: 8px;
+}
